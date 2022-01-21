@@ -194,7 +194,7 @@ GameObject:
   - component: {fileID: 371018248}
   - component: {fileID: 371018247}
   m_Layer: 0
-  m_Name: Cylinder
+  m_Name: Fast zombe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -267,7 +267,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 371018246}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.94, y: 3.5, z: -0.34000003}
+  m_LocalPosition: {x: -1.88, y: 3.5, z: -0.34000003}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -460,7 +460,7 @@ GameObject:
   - component: {fileID: 1483531187}
   - component: {fileID: 1483531186}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: Slow Zombie
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -533,7 +533,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1483531185}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.826, y: 3.96, z: -4.09}
+  m_LocalPosition: {x: -1.91, y: 3.96, z: -2.04}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -552,7 +552,7 @@ GameObject:
   - component: {fileID: 1489526755}
   - component: {fileID: 1489526754}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Survivor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -643,7 +643,7 @@ GameObject:
   - component: {fileID: 2003080261}
   - component: {fileID: 2003080260}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: tanker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -715,7 +715,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2003080259}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.27, y: 3.5, z: 1.77}
+  m_LocalPosition: {x: -1.88, y: 3.5, z: 1.77}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
